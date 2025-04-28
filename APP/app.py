@@ -170,7 +170,7 @@ class MainApp(App):
             "[b][color=00AA00]Mohammad Recognized[/color][/b]" if verified 
             else "[b][color=FF0000]Not Recognized[/color][/b]"
         )
-        self.verification_label.markup = True  # enable color and bold  # NEW
+        self.verification_label.markup = True  ~
 
 
         Logger.info(results)
