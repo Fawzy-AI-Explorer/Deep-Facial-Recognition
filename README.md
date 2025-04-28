@@ -133,7 +133,7 @@ The model is trained using contrastive loss, which:
 Training checkpoints are saved at regular intervals in the `training_checkpoints/` directory.
 
 ## 📜 License
-[Your chosen license]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👏 Acknowledgments
 - The LFW (Labeled Faces in the Wild) dataset from Kaggle
