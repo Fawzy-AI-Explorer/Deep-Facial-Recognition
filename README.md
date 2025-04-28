@@ -32,15 +32,15 @@ Deep-Facial-Recognition/
 │   ├── input_image/                # Storage for current input image
 │   └── verification_images/        # Database of verification images
 │
-├── data/                           # Training dataset
+├── data/                           
 │   ├── anchor/                     # Reference faces
 │   ├── positive/                   # Same person as anchor
 │   └── negative/                   # Different people than anchor
 │
-├── model/                          # Trained models
+├── model/                          
 │   └── siamese_network.pth         # Saved Siamese network model
 │
-├── training_checkpoints/           # Training checkpoints
+├── training_checkpoints/           
 │   └── ckpt_epoch_*.pth            # Model saved at different epochs
 │
 ├── Deep Facial Recognition.ipynb   # Jupyter notebook with model development
