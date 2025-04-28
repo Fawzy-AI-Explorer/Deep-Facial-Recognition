@@ -136,5 +136,6 @@ Training checkpoints are saved at regular intervals in the `training_checkpoints
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👏 Acknowledgments
-- The LFW (Labeled Faces in the Wild) dataset from Kaggle
-- PyTorch and Kivy community resources
+- The Labeled Faces in the Wild dataset was used for negative samples during training
+- This project implements concepts from the paper [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov (2015)
+
